@@ -1,0 +1,11 @@
+{
+  "$schema": "../../schemas/pmndrs.schema.json",
+  "title": "ScrollControls with Minimap",
+  "description": "Vertical scrollcontrols and minimaps.",
+  "tags": ["vertical", "scroll"],
+  "authors": ["Paul Henschel"],
+  "publishedAt": "2021-10-13",
+  "source": "https://codesandbox.io/s/yjhzv",
+  "libraries": ["@react-three/drei", "@react-three/fiber"],
+  "assets": []
+}
